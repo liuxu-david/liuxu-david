@@ -6,7 +6,7 @@
   <br/>
     
   <div align=center>
-  <img src="https://img.shields.io/badge/工作一年-e13d2f?style=for-the-badge"></img> 
+  <img src="https://img.shields.io/badge/工作2年-e13d2f?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/计算机科学与技术专业-e13d2f?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/本科-e13d2f?style=for-the-badge"></img>   
   <br/>
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Nestjs-1565e6?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/Vue-1565e6?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/微信小程序-1565e6?style=for-the-badge"></img> 
-  <img src="https://img.shields.io/badge/Meteor-1565e6?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/REACT-1565e6?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/TYPRSCRIPT-1565e6?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/webpack-1565e6?style=for-the-badge"></img> 
