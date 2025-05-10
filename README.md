@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/Nodejs-1565e6?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/Nestjs-1565e6?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/Vue-1565e6?style=for-the-badge"></img> 
+  <img src="https://img.shields.io/badge/TYPRSCRIPT-1565e6?style=for-the-badge"></img>
   <img src="https://img.shields.io/badge/微信小程序-1565e6?style=for-the-badge"></img> 
-  <img src="https://img.shields.io/badge/REACT-1565e6?style=for-the-badge"></img> 
-  <img src="https://img.shields.io/badge/TYPRSCRIPT-1565e6?style=for-the-badge"></img> 
-  <img src="https://img.shields.io/badge/webpack-1565e6?style=for-the-badge"></img> 
   </div>
