@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub 👋</h1>
+<h1 align="center">欢迎来到我的GitHub👋</h1>
  <br/>
   <div align="center">
     <img src="https://avatars.githubusercontent.com/u/75924605?v=4&s=50" alt="david"x>
@@ -6,7 +6,7 @@
   <br/>
     
   <div align=center>
-  <img src="https://img.shields.io/badge/工作2年-e13d2f?style=for-the-badge"></img> 
+  <img src="https://img.shields.io/badge/工作5年-e13d2f?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/计算机科学与技术专业-e13d2f?style=for-the-badge"></img> 
   <img src="https://img.shields.io/badge/本科-e13d2f?style=for-the-badge"></img>   
   <br/>
